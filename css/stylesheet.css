@@ -1,0 +1,19 @@
+body {
+    background-image: url("../img/modernhouse.jpg");
+    color:darkgreen
+}
+
+h1 {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: cornflowerblue;
+    background-color: chartreuse;
+    width: 20%;
+}
+
+h2 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    color: darkorchid;
+    background-color: darkorange;
+}
+
